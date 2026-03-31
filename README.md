@@ -1,5 +1,3 @@
-# LLUMYS - README
-
 ![LLUMYS_v2.png](LLUMYS_v2.png)
 
 # LLUMYS: Learning Loss informed Uncertainty Aware MLIP from Yonsei and Sydney
