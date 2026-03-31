@@ -1,6 +1,5 @@
-![LLUMYS_v2.png](LLUMYS_v2.png)
-
 # LLUMYS: Learning Loss informed Uncertainty Aware MLIP from Yonsei and Sydney
+![LLUMYS_v2.png](LLUMYS_v2.png)
 
 ***LLUMYS*** is an E(3)-equivariant graph neural network interatomic potential that learns per-atom uncertainty based on the [learning loss](https://arxiv.org/abs/1905.03677) concept. It has been developed as a companion package to ***NARA*** (a Firefly algorithm based atomic structure optimization framework). The name ***LLUMYS*** originates from *lumen*, meaning “light”, symbolizing the glow of a firefly.
 
