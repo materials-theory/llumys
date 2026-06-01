@@ -1,0 +1,7 @@
+__name__ = "LLUMYS"
+__author__ = "Giyeok Lee"
+__email__ = "giyeok.lee@sydney.edu.au"
+__date__ = "Jun 01, 2026"
+__maintainer__ = "Giyeok Lee"
+__version__ = "1.0.2"
+# __copyright__ = "Copyright (c) Materials Theory Group @ Yonsei University (2026)"

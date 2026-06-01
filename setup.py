@@ -1,6 +1,6 @@
 import io
 from setuptools import find_packages, setup, Extension
-from llumys.gnn import __version__
+from llumys.__init__ import __version__
 
 # Read in the README for the long description on PyPI
 def long_description():
@@ -12,6 +12,7 @@ setup(name = 'llumys',
       version = __version__,
       description='',
       long_description=long_description(),
+      long_description_content_type="text/markdown",
       url='https://github.com/materials-theory/llumys',
       author='Giyeok Lee',
       author_email='giyeok.lee@sydney.edu.au',
@@ -27,6 +28,6 @@ setup(name = 'llumys',
           'Programming Language :: Python :: 3.11',
           'Programming Language :: Python :: 3.12'
           ],
-      install_requires=['ase', 'numpy', 'torch', 'e3nn'],
+      install_requires=['ase>=3.26', 'numpy', 'torch>=2.4', 'e3nn>=0.5'],
     #   entry_points = {'console_scripts':['llumys = llumys.main:main']}
       )

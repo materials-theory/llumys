@@ -5,14 +5,6 @@
 # Copyright (c) 2021 NequIP authors
 # Licensed under the MIT License
 
-__name__ = "LLUMYS"
-__author__ = "Giyeok Lee"
-__email__ = "giyeok.lee@sydney.edu.au"
-__date__ = "Oct 23, 2025"
-__maintainer__ = "Giyeok Lee"
-__version__ = "1.0.0"
-# __copyright__ = "Copyright (c) Materials Theory Group @ Yonsei University (2025)"
-
 
 ### Import and warnings settings
 from llumys.distance import *
